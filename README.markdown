@@ -131,3 +131,6 @@ To achieve the best results, run `Vanilla-rnn.ipynb` first to generate predictio
 - **Missing Dataset**: Ensure the TSV files are in the correct directory (`/kaggle/input/hindi-dl/`).
 - **W&B Issues**: Verify your API key and internet connection for logging.
 - **GPU Availability**: If training is slow, check that a GPU is available and PyTorch is configured to use it.
+
+## WandB Link: 
+https://wandb.ai/da24m002-indian-institute-of-technology-madras/assignment_3/reports/Assignment-3--VmlldzoxMjg1NzEzOA
